@@ -1,6 +1,6 @@
 # Contenido de Clase 1:
 
-Su repositorio de github de entregable de contener una carpeta clase_1 con el siguiente contenido:
+Su repositorio de github de entregable debe contener una carpeta clase_1 con el siguiente contenido:
 
 ## Ejercicios Clase 1:
 
