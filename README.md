@@ -1,4 +1,5 @@
 
+
 ## Bienvenido al Módulo 9 PHP
 
 Este repositorio contiene las **instrucciones de cada práctica** y la **estructura de carpetas y contenido** para entregar y calificar.
@@ -9,7 +10,8 @@ Cualquier duda consulte con su maestro.
 
 ### Instalación de Wampserver:
 Hay distintos tutoriales para instalar esta es una opción:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n5XsRWNQllg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/n5XsRWNQllg/0.jpg)](https://www.youtube.com/watch?v=n5XsRWNQllg "Video Title")
 
 [Presentación Clase 1](https://docs.google.com/presentation/d/1KzdQjK15Eb9wnqe2vk3Zzg7YBgTpoNsbwEkF9MMuSiU/edit?usp=sharing)
 
